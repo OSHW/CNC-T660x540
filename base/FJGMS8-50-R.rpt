@@ -1,0 +1,69 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Noname
+Receiving System Product I.D.: Noname
+File Name                    : FJGMS8-50-R.igs
+Sending System               :  By UGS Corp.
+Preprocessor Version         : XPlus GENERIC/IGES 3.0
+File Creation Date           : 20150826.170707
+Model Creation Date          : 20150826.170707
+Units                        : MM
+Model Space Scale            : 1
+Author                       : Noname
+Organization                 : Noname
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+WARNING: DE#   261, TYPE   144: Error repaired by using 3D trim curves.
+WARNING: DE#  1291, TYPE   144: Error repaired by using 3D trim curves.
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                6.01242
+  Maximum distance to origin:                          1000.73
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             51        51
+102  Composite curve                                 88        88
+110  Line                                           125       125
+120  Surface of revolution                           18        18
+122  Tabulated cylinder                              20        20
+124  Transformation matrix                           52        52
+126  Rational B-spline curve                        208       208
+142  Curve on a parametric surface                   44        44
+144  Trimmed parametric surface                      38        38
+308  Subfigure definition                             3         3
+408  Singular subfigure instance                      3         3
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     3
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: mercoledì, agosto 26, 2015 17:07:38
+Finish time: mercoledì, agosto 26, 2015 17:07:42
+Processing time: 0 days, 00 hours, 00 mins, 04 secs

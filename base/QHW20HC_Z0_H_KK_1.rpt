@@ -1,0 +1,62 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : sent system id unknown
+Receiving System Product I.D.: received system id unknown
+File Name                    : NoName
+Sending System               :  By Spatial Corp.
+Preprocessor Version         : XPlus ACIS/IGES
+File Creation Date           : 20150825.172446
+Model Creation Date          : 20150825.172446
+Units                        : MM
+Model Space Scale            : 1
+Author                       : HIWIN GmbH
+Organization                 : CADClick - KiM GmbH - www.kimweb.de
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               3
+  Highest number of significant digits:                     14
+  Average number of significant digits:                7.03553
+  Maximum distance to origin:                          106.117
+  Minimum distance to origin:                              4.6
+  Effective number of significant digits:              13.9623
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+102  Composite curve                               1168      1168
+126  Rational B-spline curve                       6144      6144
+128  Rational B-spline surface                      546       546
+142  Curve on a parametric surface                  584       584
+144  Trimmed parametric surface                     546       546
+314  Color definition                               420       420
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: martedì, agosto 25, 2015 17:25:34
+Finish time: martedì, agosto 25, 2015 17:25:44
+Processing time: 0 days, 00 hours, 00 mins, 10 secs

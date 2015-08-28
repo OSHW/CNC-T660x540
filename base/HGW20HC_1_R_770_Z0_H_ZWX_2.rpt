@@ -1,0 +1,184 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : sent system id unknown
+Receiving System Product I.D.: received system id unknown
+File Name                    : NoName
+Sending System               :  By Spatial Corp.
+Preprocessor Version         : XPlus ACIS/IGES
+File Creation Date           : 20150825.145344
+Model Creation Date          : 20150825.145344
+Units                        : MM
+Model Space Scale            : 1
+Author                       : HIWIN GmbH
+Organization                 : CADClick - KiM GmbH - www.kimweb.de
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+ERROR:   DE#  6697, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  6697, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 16713, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 16713, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25663, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25663, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25691, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25691, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25719, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25719, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25747, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25747, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25775, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25775, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25803, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25803, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25831, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25831, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25859, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25859, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25887, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25887, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25915, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25915, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25943, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25943, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25971, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 25971, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26059, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26059, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26087, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26087, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26115, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26115, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26143, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26143, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26171, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26171, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26199, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26199, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26227, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26227, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26255, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26255, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26283, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26283, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26311, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26311, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26339, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26339, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26367, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26367, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26395, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26395, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26423, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26423, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26451, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26451, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26479, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26479, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26507, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26507, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26535, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26535, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26563, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26563, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26591, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26591, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26619, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26619, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26647, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26647, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26675, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26675, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26703, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26703, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26731, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26731, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26759, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 26759, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27247, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27247, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27275, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27275, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27303, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27303, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27331, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27331, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27359, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27359, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27387, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27387, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27415, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27415, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27443, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27443, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27471, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27471, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27499, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27499, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27527, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27527, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27555, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27555, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27643, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27643, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27671, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27671, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27699, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27699, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27727, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27727, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27755, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27755, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27783, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27783, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27811, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27811, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27839, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27839, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27867, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27867, TYPE   128: Unable to create a bspline surface.
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                7.42663
+  Maximum distance to origin:                          771.258
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+102  Composite curve                               1966      1966
+126  Rational B-spline curve                       9844      9844
+128  Rational B-spline surface                      914       792
+142  Curve on a parametric surface                  983       983
+144  Trimmed parametric surface                     914       853
+314  Color definition                               842       842
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       2
+Surface feature(s)                     1
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: martedì, agosto 25, 2015 14:54:13
+Finish time: martedì, agosto 25, 2015 14:54:31
+Processing time: 0 days, 00 hours, 00 mins, 18 secs
